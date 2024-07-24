@@ -1,0 +1,39 @@
+export const topMeels=[
+    {
+        image:"https://media.istockphoto.com/id/1041080706/photo/100-gluten-free-low-carb-hamburger-and-bun.jpg?s=1024x1024&w=is&k=20&c=df2rMyM3mkTk1h6aCRtM9vJVI46u-Xrs1zzL9Jxk3yI=",
+        title:"Burger"
+    },
+    {
+        image:"https://media.istockphoto.com/id/1041080706/photo/100-gluten-free-low-carb-hamburger-and-bun.jpg?s=1024x1024&w=is&k=20&c=df2rMyM3mkTk1h6aCRtM9vJVI46u-Xrs1zzL9Jxk3yI=",
+        title:"Burger"
+    },
+    {
+        image:"https://media.istockphoto.com/id/1041080706/photo/100-gluten-free-low-carb-hamburger-and-bun.jpg?s=1024x1024&w=is&k=20&c=df2rMyM3mkTk1h6aCRtM9vJVI46u-Xrs1zzL9Jxk3yI=",
+        title:"Burger"
+    },{
+        image:"https://media.istockphoto.com/id/1041080706/photo/100-gluten-free-low-carb-hamburger-and-bun.jpg?s=1024x1024&w=is&k=20&c=df2rMyM3mkTk1h6aCRtM9vJVI46u-Xrs1zzL9Jxk3yI=",
+        title:"Burger"
+    },
+    {
+        image:"https://media.istockphoto.com/id/1041080706/photo/100-gluten-free-low-carb-hamburger-and-bun.jpg?s=1024x1024&w=is&k=20&c=df2rMyM3mkTk1h6aCRtM9vJVI46u-Xrs1zzL9Jxk3yI=",
+        title:"Burger"
+    },
+    {
+        image:"https://media.istockphoto.com/id/1041080706/photo/100-gluten-free-low-carb-hamburger-and-bun.jpg?s=1024x1024&w=is&k=20&c=df2rMyM3mkTk1h6aCRtM9vJVI46u-Xrs1zzL9Jxk3yI=",
+        title:"Burger"
+    },{
+        image:"https://media.istockphoto.com/id/1041080706/photo/100-gluten-free-low-carb-hamburger-and-bun.jpg?s=1024x1024&w=is&k=20&c=df2rMyM3mkTk1h6aCRtM9vJVI46u-Xrs1zzL9Jxk3yI=",
+        title:"Burger"
+    },  {
+        image:"https://media.istockphoto.com/id/1041080706/photo/100-gluten-free-low-carb-hamburger-and-bun.jpg?s=1024x1024&w=is&k=20&c=df2rMyM3mkTk1h6aCRtM9vJVI46u-Xrs1zzL9Jxk3yI=",
+        title:"Burger"
+    },
+    {
+        image:"https://media.istockphoto.com/id/1041080706/photo/100-gluten-free-low-carb-hamburger-and-bun.jpg?s=1024x1024&w=is&k=20&c=df2rMyM3mkTk1h6aCRtM9vJVI46u-Xrs1zzL9Jxk3yI=",
+        title:"Burger"
+    },{
+        image:"https://media.istockphoto.com/id/1041080706/photo/100-gluten-free-low-carb-hamburger-and-bun.jpg?s=1024x1024&w=is&k=20&c=df2rMyM3mkTk1h6aCRtM9vJVI46u-Xrs1zzL9Jxk3yI=",
+        title:"Burger"
+    }
+
+];
